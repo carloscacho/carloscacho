@@ -7,10 +7,10 @@ Algumas coisa sobre mim:
 - 📫 Entre em contato por: carlosemilio.ac@gmail.com
 
 
-<div style="display: inline_block">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloscacho&count_private=true&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloscacho&layout=compact&theme=dracula)](https://github.com/carloscacho/github-readme-stats)
-</div>
+
 
 <div style="display: inline_block">
   <img height="40" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'>
